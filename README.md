@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/logo-transparent-png.png" alt="Burhan portfolio logo" width="110">
+<!-- <img src="images/logo-transparent-png.png" alt="Burhan portfolio logo" width="110"> -->
 
 # Mohammed Ahmed Burhanuddin Nayeem
 
