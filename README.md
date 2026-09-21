@@ -9,7 +9,7 @@
 Aspiring developer from Hyderabad who enjoys building clear, useful, and responsive digital experiences.
 
 <p>
-  <a href="portfolio.html"><strong>Visit my portfolio</strong></a>
+  <a href="index.html"><strong>Visit my portfolio</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="About.html"><strong>About me</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -80,7 +80,7 @@ The portfolio website is designed as a complete introduction to my background, i
 </tr>
 <tr>
 <td><strong>Home</strong></td>
-<td><a href="portfolio.html">portfolio.html</a></td>
+<td><a href="index.html">index.html</a></td>
 <td>My introduction, location, skills, interests, and ways to connect</td>
 </tr>
 <tr>
