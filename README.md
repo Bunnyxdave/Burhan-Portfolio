@@ -25,9 +25,9 @@ Aspiring developer from Hyderabad who enjoys building clear, useful, and respons
 
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="images/burhan-portrait.jpg" alt="Portrait of Mohammed Ahmed Burhanuddin Nayeem" width="260">
-</p>
+</p> -->
 
 ## About me
 
