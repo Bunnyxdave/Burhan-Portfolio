@@ -222,7 +222,7 @@ I am open to collaboration, training opportunities, and junior full-stack develo
 This personal portfolio is a lightweight static website built with semantic HTML, CSS, and vanilla JavaScript. It includes a responsive navigation menu, fluid layouts, accessible page structure, project links, and reduced-motion support. There is no build process or package installation required.
 
 ### Web : 
-<a href="#">Burhan-portfolio.in</a>
+<a href="https://burhan-portfolio-rouge.vercel.app">Burhan-portfolio.in</a>
 
 <div align="center">
 
