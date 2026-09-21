@@ -1,0 +1,41 @@
+.project-layout { display: grid; gap: 1.25rem; }
+.projects-shell {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(230px, .33fr);
+  align-items: start;
+  gap: 1.25rem;
+}
+.repo-rail { position: sticky; top: 92px; }
+.repo-rail h2 { margin-bottom: .5rem; font-size: 1.3rem; }
+.repo-list { display: grid; gap: .7rem; margin: 1rem 0; padding: 0; list-style: none; }
+.repo-list a {
+  display: block;
+  padding: .75rem;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  color: var(--text);
+  text-decoration: none;
+}
+.repo-list a:hover { background: rgba(240, 174, 107, .1); }
+.repo-list small { display: block; margin-top: .2rem; color: var(--muted); }
+.project-detail {
+  display: grid;
+  grid-template-columns: 11rem minmax(0, 1fr);
+  gap: 1.5rem;
+}
+.project-mark {
+  display: grid; place-items: center; min-height: 9rem;
+  border: 1px solid var(--line); border-radius: 14px;
+  background: radial-gradient(circle at 30% 25%, rgba(68, 200, 255, .32), transparent 40%), #0a2038;
+  color: var(--blue); font-size: .86rem; font-weight: 800; text-align: center;
+}
+.project-detail h2 { margin-bottom: .5rem; }
+.project-detail p { color: var(--muted); }
+.project-meta { display: flex; flex-wrap: wrap; gap: .5rem; margin: 1rem 0; }
+
+@media (max-width: 620px) {
+  .projects-shell { grid-template-columns: 1fr; }
+  .repo-rail { position: static; }
+  .project-detail { grid-template-columns: 1fr; }
+  .project-mark { min-height: 5rem; }
+}
