@@ -221,29 +221,8 @@ I am open to collaboration, training opportunities, and junior full-stack develo
 
 This personal portfolio is a lightweight static website built with semantic HTML, CSS, and vanilla JavaScript. It includes a responsive navigation menu, fluid layouts, accessible page structure, project links, and reduced-motion support. There is no build process or package installation required.
 
-### Run locally
-
-```bash
-python -m http.server 8000
-```
-
-Then open [http://localhost:8000/portfolio.html](http://localhost:8000/portfolio.html).
-
-### Project structure
-
-```text
-.
-├── portfolio.html                    # Personal introduction and home page
-├── About.html                        # Background, education, and experience
-├── projects.html                     # Learning work and project details
-├── responsive-test.html              # Responsive testing utility
-├── style.css                         # Shared styles and responsive rules
-├── about.css                         # About page styles
-├── projects.css                      # Projects page styles
-├── script.js                         # Responsive navigation behavior
-├── hover.js                          # Retained legacy hover interaction
-└── images/                           # Portfolio logo, portrait, and background asset
-```
+### Web : 
+<a href="#">Burhan-portfolio.in</a>
 
 <div align="center">
 
