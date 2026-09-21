@@ -2,18 +2,18 @@
 
 <img src="images/logo-transparent-png.png" alt="Burhan portfolio logo" width="110">
 
-# Burhan's Portfolio
+# Mohammed Ahmed Burhanuddin Nayeem
 
 ### Computer Science & Engineering Graduate | Full-Stack Developer in Training
 
-Responsive personal portfolio built with semantic HTML, modern CSS, and vanilla JavaScript.
+Aspiring developer from Hyderabad who enjoys building clear, useful, and responsive digital experiences.
 
 <p>
-  <a href="https://github.com/Bunnyxdave/Burhan-Portfolio"><strong>View repository</strong></a>
+  <a href="portfolio.html"><strong>Visit my portfolio</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="portfolio.html"><strong>Open portfolio</strong></a>
+  <a href="About.html"><strong>About me</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="projects.html"><strong>Explore projects</strong></a>
+  <a href="projects.html"><strong>View my work</strong></a>
 </p>
 
 <p>
@@ -29,150 +29,199 @@ Responsive personal portfolio built with semantic HTML, modern CSS, and vanilla 
   <img src="images/burhan-portrait.jpg" alt="Portrait of Mohammed Ahmed Burhanuddin Nayeem" width="260">
 </p>
 
-## About the project
+## About me
 
-This repository contains a polished, responsive portfolio for **Mohammed Ahmed Burhanuddin Nayeem**, a Computer Science and Engineering graduate based in Hyderabad, Telangana. It brings together a professional introduction, technical skills, education, tutoring experience, selected projects, and direct contact links in a compact static website.
+I am **Mohammed Ahmed Burhanuddin Nayeem**, a Computer Science and Engineering graduate from Osmania University, Hyderabad, with a CGPA of **7.5**. I am currently developing my full-stack skills through MERN training and practical work across web development, REST APIs, databases, artificial intelligence, and machine learning.
 
-The project has no framework, build process, package manager, or server-side dependency. It is intentionally lightweight and can be opened directly in a browser or deployed to any static hosting service.
+I like turning ideas into interfaces that are easy to understand and useful to real people. My approach combines logical problem-solving with attention to responsive layouts, accessible interactions, and maintainable code.
 
-## What is included
+> **Based in:** Hyderabad, Telangana, India<br>
+> **Focus:** Full-stack web development<br>
+> **Interests:** Artificial intelligence, machine learning, responsive UI, and practical software solutions
+
+## What I bring
 
 <table>
 <tr>
 <td width="50%">
 
-### Personal presentation
+### Technical foundation
 
-- Hero introduction with profile image
-- About and quick-facts sections
-- Education and development timeline
-- Contact links, location, GitHub, and LinkedIn
+- Python and JavaScript development
+- Semantic HTML and responsive CSS
+- React, Next.js, Node.js, and Express.js
+- MongoDB, REST APIs, and FastAPI
+- Data work with Pandas and Scikit-learn
 
 </td>
 <td width="50%">
 
-### Developer-focused content
+### Personal strengths
 
-- Skills overview across web, backend, data, and AI
-- Four selected project areas
-- Direct links to related GitHub repositories
-- Responsive layout for mobile, tablet, and desktop
+- Clear and patient communication
+- Logical approach to problem-solving
+- Curiosity and continuous learning
+- Interest in practical, purposeful products
+- Ability to explain technical ideas simply
 
 </td>
 </tr>
 </table>
 
-## Page map
+## My portfolio
+
+The portfolio website is designed as a complete introduction to my background, interests, and development journey. Each page focuses on a different part of who I am and how I work.
 
 <table>
 <tr>
 <th>Page</th>
 <th>Open</th>
-<th>What you will find</th>
+<th>What it says about me</th>
 </tr>
 <tr>
 <td><strong>Home</strong></td>
 <td><a href="portfolio.html">portfolio.html</a></td>
-<td>Introduction, skills, selected projects, location, and contact CTA</td>
+<td>My introduction, location, skills, interests, and ways to connect</td>
 </tr>
 <tr>
 <td><strong>About</strong></td>
 <td><a href="About.html">About.html</a></td>
-<td>Background, technologies, tutoring experience, education, and training</td>
+<td>My background, values, technologies, experience, and learning path</td>
 </tr>
 <tr>
 <td><strong>Projects</strong></td>
 <td><a href="projects.html">projects.html</a></td>
-<td>Project details, technology tags, repository rail, and GitHub links</td>
+<td>Practical work that reflects my growth across web development and AI</td>
 </tr>
 <tr>
 <td><strong>Responsive test</strong></td>
 <td><a href="responsive-test.html">responsive-test.html</a></td>
-<td>Viewport indicators and a manual cross-device testing checklist</td>
+<td>My attention to usability across mobile, tablet, and desktop screens</td>
 </tr>
 </table>
 
-## Selected work
+## Education and experience
+
+<table>
+<tr>
+<td width="33%">
+
+### Computer Science & Engineering
+
+**Osmania University, Hyderabad**<br>
+B.E. / B.Tech<br>
+CGPA: **7.5**
+
+</td>
+<td width="33%">
+
+### Full-Stack Training
+
+**Career Guidance Council, Talent Development Center**<br>
+MERN stack, Next.js, AI concepts, APIs, databases, and application architecture.
+
+</td>
+<td width="33%">
+
+### Physics Tutor
+
+**Abduls Academy**<br>
+Supported secondary school students with physics concepts and numerical problem-solving.
+
+</td>
+</tr>
+</table>
+
+My tutoring experience strengthened my communication, presentation, mentoring, and ability to adapt explanations to different learning needs. These skills influence how I collaborate and how I think about user-friendly software.
+
+## Technical interests
+
+| Area | Technologies and interests |
+| --- | --- |
+| Front end | HTML, CSS, JavaScript, React, Next.js, responsive UI |
+| Back end | Node.js, Express.js, Python, FastAPI, Flask, REST APIs |
+| Data and AI | Python, Pandas, Scikit-learn, machine learning, predictive modelling |
+| Databases and tools | MongoDB, Git, GitHub, practical application architecture |
+| Human skills | Communication, mentoring, problem-solving, continuous learning |
+
+## Selected learning work
+
+My projects are part of my learning journey and show how I apply concepts through hands-on practice. They include fraud-detection workflows, machine-learning experiments, browser-based JavaScript tools, and responsive web development.
 
 <table>
 <tr>
 <td width="50%">
 
-### MDFDP - Fraud Detection Platform
+### Building with Python and AI
 
-A modular Python and FastAPI application concept for fraud-detection workflows, with an emphasis on understandable validation, data flow, and prediction features.
+I explore data preparation, predictive modelling, and application concepts that connect machine-learning ideas with useful interfaces.
 
-**Stack:** Python · FastAPI · Web UI
-
-<a href="https://github.com/Bunnyxdave/MDFDP">View repository →</a>
+<a href="https://github.com/Bunnyxdave/MDFDP"><strong>Explore fraud detection →</strong></a>
 
 </td>
 <td width="50%">
 
-### Machine Learning Projects
+### Growing through web development
 
-An exploration of time-series approaches and machine-learning techniques for stock-price prediction, data preparation, model testing, and presenting insights.
+I practise creating responsive interfaces, working with APIs and databases, and organizing applications into clear, maintainable parts.
 
-**Stack:** Python · Pandas · Scikit-learn
-
-<a href="https://github.com/Bunnyxdave/ML-projects">View repository →</a>
+<a href="https://github.com/Bunnyxdave/MERNSTACK-TDC"><strong>Explore web development →</strong></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### JavaScript Projects
+### Learning through experiments
 
-A browser-based QR code generator that creates scannable codes and supports downloadable PNG output without a heavy application stack.
+Machine-learning and JavaScript projects help me test ideas, understand tools, and turn technical concepts into working results.
 
-**Stack:** JavaScript · HTML · CSS
-
-<a href="https://github.com/Bunnyxdave/JavaScript-beginners">View repository →</a>
+<a href="https://github.com/Bunnyxdave/ML-projects"><strong>See machine-learning work →</strong></a>
 
 </td>
 <td width="50%">
 
-### MERN Stack Development
+### Creating useful tools
 
-This portfolio project demonstrates responsive front-end structure, accessible navigation, reusable styling patterns, and a framework-free implementation.
+I enjoy small, focused tools that solve a clear problem, such as browser-based utilities with simple, accessible interactions.
 
-**Stack:** HTML · CSS · JavaScript
-
-<a href="https://github.com/Bunnyxdave/MERNSTACK-TDC">View related repository →</a>
+<a href="https://github.com/Bunnyxdave/JavaScript-beginners"><strong>See JavaScript work →</strong></a>
 
 </td>
 </tr>
 </table>
 
-## Technology stack
+## How I work
 
-| Layer | Tools and concepts |
-| --- | --- |
-| Markup | HTML5, semantic landmarks, accessible navigation |
-| Styling | CSS3, Grid, Flexbox, fluid typography, media queries, gradients |
-| Interaction | Vanilla JavaScript, mobile menu toggle, smooth scrolling |
-| Responsive design | Mobile, tablet, desktop, reduced-motion support |
-| Portfolio focus | React, Next.js, Node.js, Express.js, MongoDB, Python, FastAPI, Flask, Pandas, Scikit-learn |
+- I start by understanding the purpose of a feature and the people who will use it.
+- I value simple structures that are easy to read, test, and improve.
+- I pay attention to responsive behavior so an experience remains useful on different screens.
+- I keep learning through practical projects, training, and experimentation.
+- I believe good communication is as important as good implementation.
 
-## Visual and interaction details
+## Contact me
 
-- Warm dark visual system with translucent panels and high-contrast accent colors.
-- Sticky navigation with a compact hamburger menu at smaller widths.
-- Responsive grids that collapse cleanly from multi-column desktop layouts to single-column mobile layouts.
-- Profile image treatment, project cards, timeline sections, tags, and repository links.
-- `prefers-reduced-motion` handling for users who request less animation.
-- Semantic page structure, image alternative text, viewport metadata, and `aria-expanded` menu state.
+<div align="center">
 
-## Run locally
+I am open to collaboration, training opportunities, and junior full-stack development roles.
 
-### Option 1: Open directly
+<br><br>
 
-Open [`portfolio.html`](portfolio.html) in a browser and use the navigation to explore the site.
+<a href="mailto:mdburhan152004@gmail.com"><strong>Email me</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/Bunnyxdave"><strong>GitHub</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/md-burhan-770867353"><strong>LinkedIn</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.google.com/maps/search/?api=1&query=Hyderabad%2C+Telangana%2C+India"><strong>Hyderabad, India</strong></a>
 
-### Option 2: Use a local server
+</div>
 
-Serving the folder over HTTP gives the closest experience to deployment:
+## About this website
+
+This personal portfolio is a lightweight static website built with semantic HTML, CSS, and vanilla JavaScript. It includes a responsive navigation menu, fluid layouts, accessible page structure, project links, and reduced-motion support. There is no build process or package installation required.
+
+### Run locally
 
 ```bash
 python -m http.server 8000
@@ -180,61 +229,24 @@ python -m http.server 8000
 
 Then open [http://localhost:8000/portfolio.html](http://localhost:8000/portfolio.html).
 
-To inspect responsive behavior, open [responsive-test.html](responsive-test.html) and resize the browser window.
-
-## Project structure
+### Project structure
 
 ```text
 .
-├── portfolio.html                    # Home page
-├── About.html                        # About page
-├── projects.html                     # Projects page
+├── portfolio.html                    # Personal introduction and home page
+├── About.html                        # Background, education, and experience
+├── projects.html                     # Learning work and project details
 ├── responsive-test.html              # Responsive testing utility
 ├── style.css                         # Shared styles and responsive rules
 ├── about.css                         # About page styles
 ├── projects.css                      # Projects page styles
 ├── script.js                         # Responsive navigation behavior
 ├── hover.js                          # Retained legacy hover interaction
-├── RESPONSIVE_IMPLEMENTATION_SUMMARY.md
-└── images/
-    ├── bg.jpeg
-    ├── burhan-portrait.jpg
-    └── logo-transparent-png.png
+└── images/                           # Portfolio logo, portrait, and background asset
 ```
-
-The three main pages share `style.css`. Page-specific styles are kept in `about.css` and `projects.css`. The current HTML pages load `script.js`; `hover.js` is retained for reference but is not referenced by the current pages.
-
-## Customize it
-
-1. Update the content and links in the HTML pages.
-2. Change shared colors, spacing, typography, and breakpoints in `style.css`.
-3. Adjust About page sections in `about.css` and project layouts in `projects.css`.
-4. Replace the files in `images/` or update their HTML paths.
-5. Update the GitHub, LinkedIn, email, and location links before publishing your own version.
-
-## Deployment
-
-This project is ready for static hosting. Suitable options include:
-
-- GitHub Pages
-- Netlify
-- Vercel
-- Any web server that serves static HTML, CSS, JavaScript, and image files
-
-No compilation or dependency installation is required.
-
-## Contact
 
 <div align="center">
 
-<a href="mailto:mdburhan152004@gmail.com"><strong>Email Mohammed</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/Bunnyxdave"><strong>GitHub</strong></a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/md-burhan-770867353"><strong>LinkedIn</strong></a>
-
-<br><br>
-
-Made with HTML, CSS, JavaScript, and a focus on clear digital experiences.
+Made with HTML, CSS, JavaScript, curiosity, and a focus on clear digital experiences.
 
 </div>
