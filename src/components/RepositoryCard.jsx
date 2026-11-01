@@ -24,6 +24,6 @@ export function RepositorySearch({ value, onChange }) {
   return <label className="repository-search"><Search size={17} /><span className="visually-hidden">Search repositories</span><input type="search" placeholder="Search repositories or languages…" value={value} onChange={(event) => onChange(event.target.value)} /></label>;
 }
 
-export function RefreshButton({ onClick, busy }) {
-  return <button className="button refresh-button" type="button" onClick={onClick} disabled={busy}><RefreshCw size={15} className={busy ? 'spin' : ''} /> Refresh GitHub data</button>;
+export function RefreshButton({ onClick, busy, label = 'Refresh GitHub data' }) {
+  return <button className="button refresh-button" type="button" onClick={onClick} disabled={busy} aria-label={label}><RefreshCw size={15} className={busy ? 'spin' : ''} /> {label}</button>;
 }
